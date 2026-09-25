@@ -1,6 +1,6 @@
   # Hossein Amiri
 
-  Systems and backend engineer focused on secure infrastructure, applied cryptography, and network internals. I build low-level tools in Rust, scalable backend services in Python and Go, and
+  Systems and backend engineer focused on secure infrastructure, applied cryptography, and network internals. I build low-level tools in Rust, scalable backend services in Python, and
   sandboxed operational platforms.
 
   ---
